@@ -1,0 +1,2 @@
+*.nsi whitespace=trailing-space,cr-at-eol,diff
+*.nsh whitespace=trailing-space,cr-at-eol,diff
