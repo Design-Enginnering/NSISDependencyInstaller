@@ -12,7 +12,7 @@
 
 ## Details (Coming Soon)
 
-## Dependencies
+## Dependencies (Coming Soon)
 
 * .NET
     * .NET Framework 3.5 Service Pack 1
