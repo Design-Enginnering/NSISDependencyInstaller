@@ -1,6 +1,6 @@
 # NSIS Dependency Installer
 
-**Nullsoft Scriptable Install System (NSIS) Dependency Installer** Can Download And Install Any Dependency Such As .NET, Visual C++ Or SQL Server During Your Application's Installation. In addition, It Is Easy To Add Your Own Dependencies As Well.
+**Nullsoft Scriptable Install System (NSIS) Dependency Installer** Can Download And Install Any Dependency Such As .NET, Visual C++ Or SQL Server During Your Application's Installation. In Addition, It Is Easy To Add Your Own Dependencies As Well.
 
 ## Installation And Usage
 
