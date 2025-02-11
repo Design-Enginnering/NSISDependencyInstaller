@@ -2,7 +2,7 @@
 
 **Nullsoft Scriptable Install System (NSIS) Dependency Installer** Can Download And Install Any Dependency Such As .NET, Visual C++ Or SQL Server During Your Application's Installation. In addition, It Is Easy To Add Your Own Dependencies As Well.
 
-## Installation and Usage
+## Installation And Usage
 
 1. Download And Install [NSIS 3.10+](https://nsis.sourceforge.io/Main_Page).
 2. Download [This Repository](https://github.com/rc-chuah/NSISDependencyInstaller/archive/main.zip) Or Clone It.
