@@ -5,7 +5,7 @@
 ## Installation And Usage
 
 1. Download And Install [NSIS 3.10+](https://nsis.sourceforge.io/Main_Page).
-2. Download [This Repository](https://github.com/rc-chuah/NSISDependencyInstaller/archive/main.zip) Or Clone It.
+2. Download [This Repository](https://github.com/rc-chuah/NSISDependencyInstaller/archive/main.zip) Or Clone It `git clone https://github.com/rc-chuah/NSISDependencyInstaller`.
 4. More Infomation (Coming Soon).
 
 ## Integration (Coming Soon)
