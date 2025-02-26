@@ -46,7 +46,7 @@ You Have Two Ways To Distribute The Dependency Installers. By Default, Most Depe
 * Call _ExtractTemporaryFile_ Macro Before The Corresponding _Dependency_Add_ Macros
 
     ```nsis
-    !insertmacro ExtractTemporaryFile 'dxwebsetup.exe'
+    !insertmacro ExtractTemporaryFile "dxwebsetup.exe"
     ```
 
 The Dependencies Are Installed Based On The System Architecture. If You Want To Install 32-Bit Dependencies On A 64-Bit System You Can Force 32-Bit Mode Like So:

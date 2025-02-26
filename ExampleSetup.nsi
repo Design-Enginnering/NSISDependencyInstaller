@@ -212,7 +212,7 @@ FunctionEnd
 
 Section "MainSection" SEC01
   SetOutPath "$INSTDIR"
-  SetOverwrite ifnewer
+  SetOverwrite on
   ; In Order Of Preference, We Want To Install:
   ; - Arm64 Binaries On Arm64 Systems
   ; - Else If, x64 Binaries On x64-Compatible Systems
