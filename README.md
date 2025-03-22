@@ -4,7 +4,7 @@
 
 ## Installation And Usage
 
-1. Download And Install [NSIS 3.10+](https://nsis.sourceforge.io/Main_Page).
+1. Download And Install [NSIS 3.11+](https://nsis.sourceforge.io/Main_Page).
 2. Download [This Repository](https://github.com/rc-chuah/NSISDependencyInstaller/archive/main.zip) Or Clone It `git clone https://github.com/rc-chuah/NSISDependencyInstaller`.
 3. Open The Extracted _ExampleSetup.nsi_ File.
 4. Comment Out Dependency Macro Calls Inside _.onInit_ Function To Disable Installing Them:
