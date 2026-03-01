@@ -164,26 +164,28 @@ Function .onInit
   !insertmacro Dependency_AddDotNet46
   !insertmacro Dependency_AddDotNet47
   !insertmacro Dependency_AddDotNet48
-  ;!insertmacro Dependency_AddDotNet481
-
-  !insertmacro Dependency_AddNetCore31
-  !insertmacro Dependency_AddNetCore31Asp
-  !insertmacro Dependency_AddNetCore31Desktop
-  !insertmacro Dependency_AddDotNet50
-  !insertmacro Dependency_AddDotNet50Asp
-  !insertmacro Dependency_AddDotNet50Desktop
-  !insertmacro Dependency_AddDotNet60
-  !insertmacro Dependency_AddDotNet60Asp
-  !insertmacro Dependency_AddDotNet60Desktop
-  !insertmacro Dependency_AddDotNet70
-  !insertmacro Dependency_AddDotNet70Asp
-  !insertmacro Dependency_AddDotNet70Desktop
+  ;!insertmacro Dependency_AddDotNet481 ;EOL
+  ;!insertmacro Dependency_AddNetCore31 ;EOL
+  ;!insertmacro Dependency_AddNetCore31Asp ;EOL
+  ;!insertmacro Dependency_AddNetCore31Desktop ;EOL
+  ;!insertmacro Dependency_AddDotNet50 ;EOL
+  ;!insertmacro Dependency_AddDotNet50Asp ;EOL
+  ;!insertmacro Dependency_AddDotNet50Desktop ;EOL
+  ;!insertmacro Dependency_AddDotNet60 ;EOL
+  ;!insertmacro Dependency_AddDotNet60Asp ;EOL
+  ;!insertmacro Dependency_AddDotNet60Desktop ;EOL
+  ;!insertmacro Dependency_AddDotNet70 ;EOL
+  ;!insertmacro Dependency_AddDotNet70Asp ;EOL
+  ;!insertmacro Dependency_AddDotNet70Desktop ;EOL
   !insertmacro Dependency_AddDotNet80
   !insertmacro Dependency_AddDotNet80Asp
   !insertmacro Dependency_AddDotNet80Desktop
   !insertmacro Dependency_AddDotNet90
   !insertmacro Dependency_AddDotNet90Asp
   !insertmacro Dependency_AddDotNet90Desktop
+  !insertmacro Dependency_AddDotNet100
+  !insertmacro Dependency_AddDotNet100Asp
+  !insertmacro Dependency_AddDotNet100Desktop
 
   !insertmacro Dependency_AddVC2005
   !insertmacro Dependency_AddVC2008
