@@ -69,12 +69,13 @@ If You Only Deploy 32-Bit Binaries And Dependencies You Can Also Instead Just No
     * .NET Framework 4.7.2
     * .NET Framework 4.8
     * .NET Framework 4.8.1
-    * .NET Core 3.1 (Runtime, ASP.NET, Desktop)
-    * .NET 5.0 (Runtime, ASP.NET, Desktop)
-    * .NET 6.0 (Runtime, ASP.NET, Desktop)
-    * .NET 7.0 (Runtime, ASP.NET, Desktop)
-    * .NET 8.0 (Runtime, ASP.NET, Desktop)
-    * .NET 9.0 (Runtime, ASP.NET, Desktop)
+    * .NET Core 3.1 (Runtime, ASP.NET, Desktop) - **EOL**
+    * .NET 5.0 (Runtime, ASP.NET, Desktop) - **EOL**
+    * .NET 6.0 (Runtime, ASP.NET, Desktop) - **EOL**
+    * .NET 7.0 (Runtime, ASP.NET, Desktop) - **EOL**
+    * .NET 8.0.24 (Runtime, ASP.NET, Desktop)
+    * .NET 9.0.13 (Runtime, ASP.NET, Desktop)
+    * .NET 10.0.3 (Runtime, ASP.NET, Desktop)
 * C++
     * Visual C++ 2005 Service Pack 1 Redistributable
     * Visual C++ 2008 Service Pack 1 Redistributable
@@ -102,4 +103,4 @@ Thanks To The Community For Sharing Many Fixes And Improvements. To Contribute P
 
 ## License
 
-[The Universal Permissive License (UPL) 1.0](https://github.com/rc-chuah/NSISDependencyInstaller/blob/main/LICENSE.md)
+[The GNU Lesser General Public License (LGPL) 3.0](https://github.com/rc-chuah/NSISDependencyInstaller/blob/main/LICENSE.md)
