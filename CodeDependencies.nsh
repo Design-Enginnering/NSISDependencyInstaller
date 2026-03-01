@@ -114,6 +114,15 @@
 !macro Dependency_AddDotNet90Desktop
 !macroend
 
+!macro Dependency_AddDotNet100
+!macroend
+
+!macro Dependency_AddDotNet100Asp
+!macroend
+
+!macro Dependency_AddDotNet100Desktop
+!macroend
+
 !macro Dependency_AddVC2005
 !macroend
 
